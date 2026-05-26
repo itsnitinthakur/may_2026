@@ -1,2 +1,2 @@
 # may_2026
-practice
+Practice python basics and DSA
