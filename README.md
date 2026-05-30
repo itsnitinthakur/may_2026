@@ -1,2 +1,4 @@
 # may_2026
-Practice python basics and DSA
+Practice python basics
+oops practice jupyter notebooks
+and DSA
