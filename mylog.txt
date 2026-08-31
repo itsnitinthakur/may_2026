@@ -1,0 +1,2 @@
+CRITICAL:root:This is critical message
+ERROR:root:This is error message
